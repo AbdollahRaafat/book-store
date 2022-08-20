@@ -18,7 +18,7 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="navbar flex-row">
+    <nav className="navbar flex-row" id="spical">
       <div className="flex-row">
         <h1 id="logo" className="blueText">Bookstore CMS</h1>
         <ul id="menu" className="navmenu flex-row">

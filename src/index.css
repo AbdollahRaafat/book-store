@@ -42,6 +42,7 @@ span {
   display: flex;
   flex-direction: row;
   align-items: center;
+  
 }
 
 .flex-col {
@@ -71,4 +72,9 @@ button {
   background-color: #fff;
   font-weight: 700;
   font-size: 1rem;
+}
+
+#spical {
+  padding-left: 18.5vw;
+  padding-right: 18.5vw;
 }
